@@ -125,11 +125,11 @@ None
 gildong.heatmap()
 ```
 
-![myplot](/home/yonajae/Documents/JNUCE/3_2/exam/myplot.png)
+![myplot](/myplot.png)
 
 히트맵을 봤을때 가격과 관계가 높은것들을 바라보면
 
-![myplot_edit](/home/yonajae/Documents/JNUCE/3_2/exam/myplot_edit.png)
+![myplot_edit](/myplot_edit.png)
 
 - 배터리용량, 액정의 해상도, 램 과의 상관관계가 높게나온다
 
